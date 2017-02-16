@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 16 11:31:12 2017
 
-@author: Maria Elena
+@author: Maria Elena Pulido
 """
 
 # INSTRUCCION
