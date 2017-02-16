@@ -5,6 +5,9 @@ Created on Thu Feb 16 11:31:12 2017
 @author: Maria Elena Pulido
 """
 
+# Especies seleccionadas: Avispa de mar (Chironex fleckeri) y Raya-mariposa Japonesa (Gymnura japonica)
+# Avispa de mar en rojo y Raya-mariposa japonesa en azul cián
+
 # INSTRUCCION
 # Es necesario instalar el paquete Basemap desde Anaconda Navigator
 from mpl_toolkits.basemap import Basemap
